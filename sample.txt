@@ -2,3 +2,4 @@ test
 pull test
 test
 gitは難しい
+pullの練習
